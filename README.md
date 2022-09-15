@@ -1,6 +1,6 @@
 # agecalci
 
-A new Flutter project.
+An app with which you can get your age in years, months,days... And also your next birthday. 
 
 ## Getting Started
 

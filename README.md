@@ -1,4 +1,4 @@
-# agecalci
+# AGECALCI
 
 An app with which you can get your age in years, months,days... And also your next birthday date.
 
